@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @psychoAKASH
-- 👀 I’m interested in Machine Learning and coding
-- 🌱 I’m currently learning machine learning and django rest framework.
+- 👋 Hi, My name is Akash
+- 👀 I’m interested in Backend development and system design
+- 🌱 Learning and implementing new things everyday
 - 📫 How to reach me akash9122000@gmail.com
 
 <!---
